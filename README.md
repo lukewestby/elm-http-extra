@@ -1,3 +1,7 @@
+# Republished as [elm-http-builder](https://github.com/lukewestby/elm-http-builder) for 0.17
+
+----
+
 # elm-http-extra
 
 [![ICARE](https://icarebadge.com/ICARE-white.png)](https://icarebadge.com)
