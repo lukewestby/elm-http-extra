@@ -1,4 +1,4 @@
-# Republished as [elm-http-builder](https://github.com/lukewestby/elm-http-builder) for 0.17
+**Republished as [elm-http-builder](https://github.com/lukewestby/elm-http-builder) for 0.17**
 
 ----
 
