@@ -1,11 +1,11 @@
-module Http.Extra
+module Http.Extra exposing
   ( RequestBuilder, url, get, post, put, patch, delete
   , withHeader, withHeaders, withBody, withStringBody, withJsonBody, withMultipartBody, withMultipartStringBody, withUrlEncodedBody
   , withTimeout, withStartHandler, withProgressHandler, withMimeType, withCredentials
   , send
   , BodyReader, stringReader, jsonReader, Error(..), Response
   , toRequest, toSettings, Request, Settings
-  ) where
+  )
 
 {-| Extra helpers for more easily building Http requests that require greater
 configuration than what is provided by `elm-http` out of the box.
